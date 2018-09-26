@@ -6,6 +6,8 @@
   width: 350px;
   background-color: #ded2cf;
   box-shadow: 5px 5px 5px #fce6df;
+  margin: 0 auto;
+
 }
 h3 {
   text-decoration: underline;
@@ -13,6 +15,9 @@ h3 {
 }
 .tekstas {
   display: inline-block;
+  letter-spacing: 2px;
+  Word-spacing: 5px;
+
   vertical-align: middle;
   padding: 10px;
   margin: 10px;
@@ -21,12 +26,11 @@ h3 {
   width: 300px;
 }
 .description {
-  /* text-align: center; */
-  /* width: 300px; */
   font-style: italic;
 }
 ul {
   list-style: none;
+  /* padding-left: 0; - nuimt itraukima */
   text-align: left;
 }
 .label {

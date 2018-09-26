@@ -7,10 +7,11 @@
 
 }
 
-.code-academy {
+.code-academy span {
   font-family: monospace;
   font-size: 24px;
   color: rgb(138,43,226);
+  background-color: rgb(230,230,250);
 }
 #menu {
   text-align: center;
