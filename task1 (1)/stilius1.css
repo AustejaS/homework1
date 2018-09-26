@@ -1,0 +1,24 @@
+.image-example {
+  border: 2px solid yellow;
+    border-radius: 50%;
+    box-shadow: 10px 10px 20px;
+    cursor: grab;
+    width: 200px;
+
+}
+
+.code-academy {
+  font-family: monospace;
+  font-size: 24px;
+  color: rgb(138,43,226);
+}
+#menu {
+  text-align: center;
+}
+.item {
+  color: blue;
+}
+.description {
+  font-family: sans-serif;
+
+}

@@ -1,0 +1,38 @@
+/* add your CSS here */
+.pagrindinis {
+  padding: 10px;
+  border-style: double;
+  text-align: center;
+  width: 350px;
+  background-color: #ded2cf;
+  box-shadow: 5px 5px 5px #fce6df;
+}
+h3 {
+  text-decoration: underline;
+  text-shadow: 5px 5px 5px #187e03;
+}
+.tekstas {
+  display: inline-block;
+  vertical-align: middle;
+  padding: 10px;
+  margin: 10px;
+  border-style: double;
+  text-align: center;
+  width: 300px;
+}
+.description {
+  /* text-align: center; */
+  /* width: 300px; */
+  font-style: italic;
+}
+ul {
+  list-style: none;
+  text-align: left;
+}
+.label {
+  font-weight: bold;
+  color: green;
+}
+img {
+  box-shadow: 10px 10px 20px #187e03;
+}
